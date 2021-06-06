@@ -15,4 +15,4 @@ Project is created with:
 * SQLyog
 	
 ## Setup
-To run this project, start tomcat in eclipse and open the website
+To run this project, create the database in SQLyog. In Eclipse connect to the database and start Tomcat server. 
